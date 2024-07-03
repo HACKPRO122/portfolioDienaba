@@ -13,41 +13,38 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 
 // about data
 const about = {
-  title: "About me",
+  title: "A propos",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "Je crée des expériences numériques élégantes et je connais plusieurs langages de programmation.",
   info: [
     {
       fieldName: "Name",
-      fieldValue: "Luke Coleman",
+      fieldValue: "Dieynaba Ndiaye",
     },
     {
       fieldName: "Phone",
-      fieldValue: "(+40) 321 654 678",
+      fieldValue: "(+33)6 05 75 19 79",
     },
     {
       fieldName: "Experience",
-      fieldValue: "12+ Years",
+      fieldValue: "2+ Years",
     },
-    {
-      fieldName: "Skype",
-      fieldValue: "luke.01",
-    },
+   
     {
       fieldName: "Nationality",
-      fieldValue: "American",
+      fieldValue: "Sénégalaise",
     },
     {
       fieldName: "Email",
-      fieldValue: "luke.01@gmail.com",
+      fieldValue: "ndiayendeyedieynaba512@gmail.com",
     },
     {
-      fieldName: "Freelance",
-      fieldValue: "Available",
+      fieldName: "",
+      fieldValue: "",
     },
     {
       fieldName: "Languages",
-      fieldValue: "English, Spanish",
+      fieldValue: "Français,Anglais",
     },
   ],
 };
@@ -55,9 +52,9 @@ const about = {
 // experience data
 const experience = {
   icon: "/assets/resume/badge.svg",
-  title: "My experience",
+  title: "Mes experiences",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "Je crée des expériences numériques élégantes et je connais plusieurs langages de programmation.",
   items: [
     {
       company: "Tech Solutions Inc.",
@@ -65,70 +62,52 @@ const experience = {
       duration: "2022 - Present",
     },
     {
-      company: "Web Design Studio",
-      position: "Front-End Developer Intern",
-      duration: "Summer 2021",
+      company: "KOTLIN",
+      position: "Developpement mobile",
+      duration: "Janvier-Avril 2024",
     },
     {
-      company: "E-commerce Startup",
-      position: "Freelance Web Developer",
-      duration: "2020 - 2021",
+      company: "C#",
+      position: "Developpement",
+      duration: "Mars-Mai 2024",
     },
     {
-      company: "Tech Academy",
-      position: "Teaching Assistant",
-      duration: "2019 - 2020",
+      company: "Gestionnaire de donnée",
+      position: "Base de donnée",
+      duration: "Mars-2023",
     },
-    {
-      company: "Digital Agency",
-      position: "UI/UX Designer",
-      duration: "2018 - 2019",
-    },
-    {
-      company: "Software Development Firm",
-      position: "Junior Developer",
-      duration: "2017 - 2018",
-    },
+   
   ],
 };
 
 // education data
 const education = {
   icon: "/assets/resume/cap.svg",
-  title: "My education",
+  title: "Mes Formations",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "Mon Parcours Académique",
   items: [
     {
-      institution: "Online Course Platform",
-      degree: "Full Stack Web Development Bootcamp",
-      duration: "2023",
+      institution: "Master 1 et 2 en Developpement web",
+      degree: "IRIS-PARIS ",
+      duration: "2024-2026",
     },
     {
-      institution: "Codecademy",
-      degree: "Front-end Track",
-      duration: "2022",
+      institution: "Bachelor supérieur 3 en Développement Web",
+      degree: "IRIS PARIS",
+      duration: "2023-2024",
     },
     {
-      institution: "Online Course",
-      degree: "Programming Course",
-      duration: "2020 - 2021",
+      institution: "LICENCE 3 Informatique Appliquée à la gestion des entreprises",
+      degree: "ISM-DAKAR ",
+      duration: "2022-2023",
     },
     {
-      institution: "Tech Institute",
-      degree: "Certified Web Developer",
-      duration: "2019",
+      institution: "Baccalauréat",
+      degree: "Eureka",
+      duration: "2020-2021",
     },
-    {
-      institution: "Design School",
-      degree: "Diploma in Graphic Design",
-      duration: "2016 - 2018",
-    },
-    {
-      institution: "Community College",
-      degree: "Associate Degree in Computer Science",
-      duration: "2014 - 2016",
-    },
+    
   ],
 };
 
@@ -136,7 +115,7 @@ const education = {
 const skills = {
   title: "My skills",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "Les technologies que j'emploie dans mon domaine d'activité.",
   skillList: [
     {
       icon: <FaHtml5 />,

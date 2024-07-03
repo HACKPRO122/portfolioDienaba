@@ -8,28 +8,28 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "Mon expertise comprend à la fois le développement front-end (utilisation de HTML, CSS, JavaScript) et le développement back-end (utilisation de langages comme PHP, Python, etc.)..",
     href: "",
   },
   {
     num: "02",
     title: "UI/UX Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "Implémenter des composants et interactions UI/UX dans le code en utilisant des technologies front-end comme HTML, CSS, et JavaScript..",
     href: "",
   },
   {
     num: "03",
     title: "Logo Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "On commence par comprendre le client, son secteur d'activité et ses valeurs pour créer un logo qui lui correspond..",
     href: "",
   },
   {
     num: "04",
     title: "SEO",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      " optimiser des sites web pour améliorer leur visibilité dans les résultats des moteurs de recherche, en utilisant des techniques comme l'optimisation de mots-clés et la création de contenu de qualité..",
     href: "",
   },
 ];
